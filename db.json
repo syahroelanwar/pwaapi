@@ -1,0 +1,24 @@
+{
+"animals" : [
+{"id":1,"name":"Hawk, red-tailed","category":"Mauv"},
+{"id":2,"name":"Hawk, red-tailed","category":"Khaki"},
+{"id":3,"name":"Lorikeet, scaly-breasted","category":"Yellow"},
+{"id":4,"name":"Pie, rufous tree","category":"Teal"},
+{"id":5,"name":"Seal, common","category":"Teal"},
+{"id":6,"name":"Puku","category":"Red"},
+{"id":7,"name":"Kelp gull","category":"Purple"},
+{"id":8,"name":"Kangaroo, red","category":"Maroon"},
+{"id":9,"name":"Booby, blue-faced","category":"Pink"},
+{"id":10,"name":"Sparrow, house","category":"Violet"},
+{"id":11,"name":"Wallaby, bennett's","category":"Yellow"},
+{"id":12,"name":"Black-capped chickadee","category":"Turquoise"},
+{"id":13,"name":"Reindeer","category":"Teal"},
+{"id":14,"name":"Eurasian badger","category":"Maroon"},
+{"id":15,"name":"Parrot, hawk-headed","category":"Khaki"},
+{"id":16,"name":"Roan antelope","category":"Purple"},
+{"id":17,"name":"Sloth bear","category":"Khaki"},
+{"id":18,"name":"Vulture, black","category":"Goldenrod"},
+{"id":19,"name":"Little cormorant","category":"Mauv"},
+{"id":20,"name":"Dragonfly, russian","category":"Crimson"}
+]
+}
